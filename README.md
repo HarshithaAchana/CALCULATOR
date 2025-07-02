@@ -1,7 +1,7 @@
 # CALCULATOR
 CALCULATOR WEBSITE
 
-## CreditsAdd commentMore actions
+## Credits
 
 This project was built by following a tutorial from the **GreatStack** YouTube channel  
 (formerly known as *Easy Tutorials*) by **Avinash**.
